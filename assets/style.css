@@ -1,6 +1,7 @@
 body{
-    background-color: black;
+    background-color: rgb(67, 64, 64);
     font-family:sans-serif;
+    color: white;
     
 }
 #logo{
@@ -13,6 +14,11 @@ body{
     padding-top: 30%;
     padding-left: 20%;
 }
+#all{
+    height:150vh;
+    width: 30%;
+    background-color: black;
+}
 .div1{
     height: 50px;
     width:150px;
@@ -21,14 +27,43 @@ body{
 }
 .p-1{
     color: white;
+    padding-left: 50%;
+    padding-top: 0;
+    width: 40px;
     /* text-align: end; */
-    padding-top: 10%;
+   
+   
     
 }
 .home{
     height: 20px;
     width: 20px;
     padding-top: 10%;
-    padding-left: 0%;
-   
+    padding-left: 20%;
+}
+.install-app{
+    padding-top: 0;
+    padding-left: 50%;
+    padding-bottom: 100%;
+
+}
+#arrow{
+    height: 40px;
+    width: 40px;
+    align-items:baseline;
+}
+.main-div{
+    height: 50px;
+    width:150px;
+}
+.main-img{
+    height: 40px;
+    width: 40px;
+    padding-top: 10%;
+    padding-left: 20%;
+    
+}
+h1{
+    text-align: center;
+    
 }
